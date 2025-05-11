@@ -1,1 +1,1 @@
-# CIS244_PROJECT_-Wedding-Planning-Service
+# CIS244_PROJECT_Maria Khan's Wedding-Planning-Service
